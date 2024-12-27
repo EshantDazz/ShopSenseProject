@@ -4,7 +4,7 @@ A powerful browser extension and chatbot system that tracks your e-commerce brow
 
 ## 🎥 Demo
 
-![ShopSense Demo](demo/shopsense_demo.mov)
+[![ShopSense Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qs_j5wRbVr8)
 
 A quick demonstration of ShopSense features including:
 - Product tracking across e-commerce sites
