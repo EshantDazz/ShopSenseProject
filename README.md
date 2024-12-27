@@ -2,6 +2,16 @@
 
 A powerful browser extension and chatbot system that tracks your e-commerce browsing activities and provides intelligent shopping recommendations using LLM technology.
 
+## 🎥 Demo
+
+![ShopSense Demo](demo/shopsense_demo.mov)
+
+A quick demonstration of ShopSense features including:
+- Product tracking across e-commerce sites
+- Chatbot interactions
+- Credit card recommendations
+- Real-time price tracking
+
 ## 🌟 Features
 
 - **E-commerce Activity Tracking**: Browser extension that monitors and stores your shopping activities across various websites
@@ -114,6 +124,11 @@ cp .env.example .env
 uvicorn main:app --reload
 ```
 
+6. Access the application
+```
+Navigate to http://127.0.0.1:8000/login to reach the login page
+```
+
 ## 🔐 Authentication
 
 The system uses a simple session-based authentication system. Users can:
@@ -166,5 +181,4 @@ The system uses LangChain with Groq's llama-3.3-70b-versatile model for:
 ## 👥 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
 
